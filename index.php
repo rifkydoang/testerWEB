@@ -1,7 +1,6 @@
 <?php
     session_start();
     require 'koneksi.php';
-
 ?>
 
 <?php include('includes/header.php') ?>
